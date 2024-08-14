@@ -15,6 +15,6 @@ Each document is meticulously prepared to emphasize my expertise and alignment w
 - [View My Shortened CV](https://github.com/umermjd11/Resumes-CV/blob/main//CV_shorten_UmerMajeed.pdf)
 
 ## Tailored Resumes
-- **Data Scientist:** [View Resume](https://github.com/umermjd11/Resume-CV/blob/main/Data-Scientist/Resume_DataScientist_UmerMajeed.pdf)
-- **Web3 Engineer:** [View Resume](https://github.com/umermjd11/Resume-CV/blob/main/Web3-Engineer/Resume_Web3Engineer_UmerMajeed.pdf)
-- **AI Engineer:** [View Resume](https://github.com/umermjd11/Resume-CV/blob/main/AI-Engineer/Resume_AIEngineer_UmerMajeed.pdf)
+- **Data Scientist:** [View Resume](https://github.com/umermjd11/Resumes-CV/blob/main/Data-Scientist/Resume_DataScientist_UmerMajeed.pdf)
+- **Web3 Engineer:** [View Resume](https://github.com/umermjd11/Resumes-CV/blob/main/Web3-Engineer/Resume_Web3Engineer_UmerMajeed.pdf)
+- **AI Engineer:** [View Resume](https://github.com/umermjd11/Resumes-CV/blob/main/AI-Engineer/Resume_AIEngineer_UmerMajeed.pdf)
